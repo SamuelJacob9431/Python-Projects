@@ -5,7 +5,9 @@ Mini Projects on Python
 #### Idea:
 Takes User Input of either the Imperial or Metric System & showcases the output i.e. your BMI while stating your BMI according to international standard Categories.
 #### 📊 BMI Categories used:
+
 BMI Range	Category
+
 Below 18.5 - 	Underweight
 
 18.5 - 24.9 - 	Normal weight
