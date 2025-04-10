@@ -25,6 +25,5 @@ Run it using the terminal:
 python bmi_calculator.py
 
 ### 2. Stopwatch :
-### 3. Quiz App:
-### 4. Dice Roll:
+
 
