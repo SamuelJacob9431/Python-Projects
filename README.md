@@ -24,6 +24,6 @@ Save the code in a file, for example: bmi_calculator.py
 Run it using the terminal:
 python bmi_calculator.py
 
-### 2. Stopwatch :
+### 2. Stopwatch & Current Time Assistant:
 
 
