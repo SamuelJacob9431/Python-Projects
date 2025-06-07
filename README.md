@@ -1,6 +1,7 @@
 # Python-Projects
 Mini Projects on Python
 ## Absolute Beginner Projects!
+(in Src Folder)
 ### 1. BMI Calculator:
 #### Idea:
 Takes User Input of either the Imperial or Metric System & showcases the output i.e. your BMI while stating your BMI according to international standard Categories.
@@ -24,6 +25,6 @@ Save the code in a file, for example: bmi_calculator.py
 Run it using the terminal:
 python bmi_calculator.py
 
-### Typing Test (GUI using Tkinter)
+
 
 
