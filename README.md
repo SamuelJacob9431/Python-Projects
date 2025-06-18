@@ -25,6 +25,29 @@ Save the code in a file, for example: bmi_calculator.py
 Run it using the terminal:
 python bmi_calculator.py
 
+### 2. Time Assistant (Just a Stopwatch tho):
+#### Idea:
+A simple Python console stopwatch program that:
+
+Displays a greeting based on the current time of day
+
+Shows the current system time
+
+Starts a stopwatch timer in the console
+
+Stops the stopwatch when you press Ctrl + C
+#### How to Run
+Save the Python script (e.g., stopwatch.py) to your computer
+
+Open your terminal or command prompt
+
+Navigate to the folder containing the script
+
+Run the script with:
+python Time Assistant.py
+The program will print a greeting and current time, then start the stopwatch
+
+To stop the stopwatch, press Ctrl + C
 
 
 
