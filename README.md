@@ -50,10 +50,10 @@ The program will print a greeting and current time, then start the stopwatch
 To stop the stopwatch, press Ctrl + C
 
 ### 3.Password Generator
-Secure Password Generator
+#### Secure Password Generator
 A simple yet cryptographically secure password generator built with Python.
 
-Features
+#### Features:
 Generates truly random passwords of customizable length
 
 Option to include/exclude digits and special symbols
@@ -64,11 +64,11 @@ Clean command-line interface with input validation
 
 Minimum password length enforcement (8 characters)
 
-Requirements
+#### Requirements:
 Python 3.6+
 older versions if exists, need to modify the code & use the random module for generating passwords
 
-Usage
+#### Usage:
 Run the script
 
 Enter your desired password length
@@ -77,7 +77,7 @@ Choose whether to include digits and/or symbols
 
 Receive your secure password
 
-Security Notes
+#### Security Notes:
 Uses Python's secrets module (cryptographically secure random generator)
 
 No forced character patterns - completely random selection
@@ -86,7 +86,7 @@ Minimum 8-character length enforced
 
 Always prints security reminder about proper password storage
 
-Customization
+#### Customization:
 Edit the script to:
 
 Change default password length (line 4)
