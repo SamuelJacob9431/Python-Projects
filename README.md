@@ -97,7 +97,7 @@ Adjust character sets (lines 7-12)
 
 
 
-### 4.To-Do App (Ofcourse this is mandatory for a repo!)
+
 
 
 
